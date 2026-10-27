@@ -246,4 +246,4 @@ Extensive domain experience across **enterprise healthcare (HMS & EMR), conglome
 - **GitLab:** [gitlab.com/toukerahmed](https://gitlab.com/toukerahmed)
 - **Stack Overflow:** [stackoverflow.com/users/16973138/touker-ahmed](https://stackoverflow.com/users/16973138/touker-ahmed)
 - **Facebook:** [facebook.com/smtoukerahmed](https://www.facebook.com/smtoukerahmed/)
-- **Interactive Portfolio:** [S.M Touker Ahmed — Full-Stack Software Engineer.html](./S.M%20Touker%20Ahmed%20—%20Full-Stack%20Software%20Engineer.html)
+- **Live Interactive Portfolio:** [https://toukerahmed.github.io/Profile/](https://toukerahmed.github.io/Profile/)
