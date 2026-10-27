@@ -2,7 +2,7 @@
 
 **Senior Full-Stack & Backend Systems Engineer**  
 📍 Dhaka, Bangladesh &nbsp;|&nbsp; ✉️ [ahamed.touker@gmail.com](mailto:ahamed.touker@gmail.com) &nbsp;|&nbsp; 📞 [+880 1794-621250](tel:+8801794621250)  
-🔗 [LinkedIn](https://www.linkedin.com/in/toukerahmed/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/toukerahmed) &nbsp;|&nbsp; 🦊 [GitLab](https://gitlab.com/toukerahmed) &nbsp;|&nbsp; 🥞 [Stack Overflow](https://stackoverflow.com/users/16973138/touker-ahmed) &nbsp;|&nbsp; 📄 [Download PDF Resume](./Touker-Ahmed-Resume.pdf)
+🔗 [LinkedIn](https://www.linkedin.com/in/toukerahmed/) &nbsp;|&nbsp; 💻 [GitHub](https://github.com/toukerahmed) &nbsp;|&nbsp; 🦊 [GitLab](https://gitlab.com/toukerahmed) &nbsp;|&nbsp; 🥞 [Stack Overflow](https://stackoverflow.com/users/16973138/touker-ahmed) &nbsp;|&nbsp; 📄 [Download PDF Resume](./Touker-Ahmed-CV.pdf)
 
 ---
 
